@@ -1,6 +1,6 @@
 # C# Windows Forms: Calculate Your Age!
 
-This repository contains the completed source code for Tutorial #5 on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) principles in C#.
+This repository contains the completed source code for Tutorial #5 on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts in C#.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
